@@ -1,0 +1,21 @@
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\bin\Debug\netcoreapp3.1\Mission 2 Homework.exe
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\bin\Debug\netcoreapp3.1\Mission 2 Homework.deps.json
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\bin\Debug\netcoreapp3.1\Mission 2 Homework.runtimeconfig.json
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\bin\Debug\netcoreapp3.1\Mission 2 Homework.runtimeconfig.dev.json
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\bin\Debug\netcoreapp3.1\Mission 2 Homework.dll
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\bin\Debug\netcoreapp3.1\Mission 2 Homework.pdb
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\obj\Debug\netcoreapp3.1\Mission 2 Homework.csproj.AssemblyReference.cache
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\obj\Debug\netcoreapp3.1\Mission 2 Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\obj\Debug\netcoreapp3.1\Mission 2 Homework.AssemblyInfoInputs.cache
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\obj\Debug\netcoreapp3.1\Mission 2 Homework.AssemblyInfo.cs
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\obj\Debug\netcoreapp3.1\Mission 2 Homework.csproj.CoreCompileInputs.cache
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\obj\Debug\netcoreapp3.1\Mission 2 Homework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\obj\Debug\netcoreapp3.1\staticwebassets\Mission 2 Homework.StaticWebAssets.Manifest.cache
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\obj\Debug\netcoreapp3.1\staticwebassets\Mission 2 Homework.StaticWebAssets.xml
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\obj\Debug\netcoreapp3.1\scopedcss\bundle\Mission 2 Homework.styles.css
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\obj\Debug\netcoreapp3.1\Mission 2 Homework.RazorTargetAssemblyInfo.cache
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\obj\Debug\netcoreapp3.1\Mission 2 Homework.dll
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\obj\Debug\netcoreapp3.1\Mission 2 Homework.pdb
+C:\Users\jiriz\source\repos\Mission 2 Homework\Mission 2 Homework\obj\Debug\netcoreapp3.1\Mission 2 Homework.genruntimeconfig.cache
